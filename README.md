@@ -8,3 +8,4 @@ can run the service in IntelliJ (or your IDE of choice) or however you normally 
 
 There is an example endpoint provided to retrieve an example of a case. You are free to add/remove fields as you
 wish.
+# CI/CD Pipeline added
